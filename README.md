@@ -1,5 +1,7 @@
 # First Test <header>
 
+## Lower Header
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -80,4 +82,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 </footer>
 
-Added a headerline for testing
+Added a headerline in h1 and h2 for testing
